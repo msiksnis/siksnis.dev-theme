@@ -1,0 +1,39 @@
+{
+  "name": "siksnis-dev-theme",
+  "displayName": "siksnis.dev-theme",
+  "description": "VS Code Color Theme of nice sharp colors that will tickle pink your eyes",
+  "publisher": "Martins Siksnis",
+  "author": {
+    "name": "Martins Siksnis"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "galleryBanner": {
+    "color": "#6d2c92",
+    "theme": "dark"
+  },
+  "keywords": [
+    "VS Theme",
+    "VS Color Theme",
+    "Dark Theme",
+    "Purple",
+    "Pink",
+    "Nice Colors",
+    "marty",
+    "new"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "siksnis.dev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/siksnis.dev-color-theme.json"
+      }
+    ]
+  }
+}
