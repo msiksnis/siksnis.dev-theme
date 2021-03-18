@@ -2,11 +2,11 @@
   "name": "siksnis-dev-theme",
   "displayName": "siksnis.dev-theme",
   "description": "VS Code Color Theme of nice sharp colors that will tickle pink your eyes",
-  "publisher": "Martins Siksnis",
+  "publisher": "siksnisdev",
   "author": {
     "name": "Martins Siksnis"
   },
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -16,12 +16,10 @@
   },
   "keywords": [
     "VS Theme",
-    "VS Color Theme",
+    "VS Code Color Theme",
     "Dark Theme",
     "Purple",
     "Pink",
-    "Nice Colors",
-    "marty",
     "new"
   ],
   "categories": [
